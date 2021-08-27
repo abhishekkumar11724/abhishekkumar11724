@@ -14,13 +14,13 @@
 [<img align="left" alt="holisitc_developer | LinkedIn" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/abhishek-kumar-a55542216/)
 <br>
 
-<!-- ## Blog
-[BigFootCode](https://www.bigfootcode.ga/) -->
+## Blog
+[BigFootCode](https://www.bigfootcode.ga/)
 
 
  
  ### <summary>:zap: GitHub Stats</summary>
-<img align="middle" src="https://github-readme-stats.vercel.app/api?username=abhishekkumar11724&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhishekkumar11724&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 # Done work on
