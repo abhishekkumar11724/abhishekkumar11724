@@ -2,7 +2,7 @@
 
  <img align="right" alt="GIF" src="https://github.com/m0hit-kumar/m0hit-kumar/blob/main/coder.gif?raw=false" width="400" height="320" />
 
-
+<br>
 
 <!-- - 🔭 I’m currently working on ... GUI (in QT) -->
 - 🌱 I’m currently learning ...  Python, Java
