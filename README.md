@@ -1,6 +1,6 @@
 ### Hey Buddy 👋
 
- <img align="right" alt="GIF" src="https://github.com/abhishekkumar11724/abhishekkumar11724/blob/c746d19a6c4a2d79cab1c16aff9e50f159a361ae/developer.gif" width="500" height="350" />
+ <img align="right" alt="GIF" src="https://github.com/abhishekkumar11724/abhishekkumar11724/blob/c746d19a6c4a2d79cab1c16aff9e50f159a361ae/developer.gif" width="450" height="337" />
 
 <br><br>
 
