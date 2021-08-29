@@ -15,7 +15,7 @@
 <br>
 
 ## Blog
-[My Occident](https://myoccident.blogspot.com/) (blog-spot)
+[My Occident](https://myoccident.blogspot.com/) (blog-spot under work)
 
 
  <br>
