@@ -67,3 +67,8 @@
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 </a> -->
 </p>
+
+##currently working on :
+- Architecting with Google Compute Engine
+- The AWS Machine Learning Foundations Course
+- Stock Markets Made Easy
