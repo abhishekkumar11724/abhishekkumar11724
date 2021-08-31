@@ -66,6 +66,9 @@
 <!-- <a href="https://unity.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 </a> -->
+ <a href="https://www.riverbankcomputing.com/static/Docs/PyQt5/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/1200px-Python_and_Qt.svg.png" alt="PyQt5" width="40" height="40"/>
+</a>
 </p>
 <br>
 <br>
