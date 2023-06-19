@@ -14,9 +14,6 @@
 [<img align="left" alt="holisitc_developer | LinkedIn" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/abhishek-kumar-a55542216/)
 <br>
 
-## Blog
-[My Occident](https://myoccident.ml/) (blog-spot under work)
-
 
  <br>
  <summary>:zap: GitHub Stats</summary>
